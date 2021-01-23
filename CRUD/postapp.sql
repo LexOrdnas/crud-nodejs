@@ -1,7 +1,7 @@
 -- MySQL dump 10.13  Distrib 8.0.21, for Win64 (x86_64)
 --
 -- Host: 127.0.0.1    Database: postapp
--- ------------------------------------------------------
+--
 -- Server version	5.5.5-10.4.16-MariaDB
 
 /*!40101 SET @OLD_CHARACTER_SET_CLIENT=@@CHARACTER_SET_CLIENT */;
